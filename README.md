@@ -1,7 +1,7 @@
 # EventConnect: Beyond Attendance
 ## A Next-Generation Proof of Attendance Protocol
 
-EventConnect is a sophisticated blockchain-based event participation platform that transforms attendance tracking into an engaging, rewarding ecosystem.
+ChainConnect is a sophisticated blockchain-based event participation platform that transforms attendance tracking into an engaging, rewarding ecosystem.
 
 ## 🌟 Key Features
 
